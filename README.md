@@ -1,6 +1,6 @@
 # Spam or Ham Classifier
 
-This project focuses on building an accurate spam or ham classifier using machine learning techniques. The goal is to develop a model that can effectively distinguish between spam and legitimate messages (ham) based on their content.
+This project focuses on building a spam or ham classifier using machine learning techniques. The goal is to develop a model that can distinguish between spam and legitimate messages (ham) based on their content.
 
 ## Key Steps:
 
