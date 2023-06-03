@@ -27,10 +27,6 @@ The resulting model can be utilized in various applications, such as email spam 
 1. Clone the repository:
 git clone https://github.com/your-username/spam-or-ham-classifier.git
 
-Follow the instructions in the documentation to preprocess the data, train the model, and make predictions.
-
-2. For detailed instructions and usage, please refer to the project documentation.
-
 For any questions or suggestions, feel free to open an issue or submit a pull request. 
 
 **Note**: You can use your own dataset or explore publicly available datasets for spam classification tasks.
